@@ -1,0 +1,29 @@
+body {
+	 background-color: #F0F0F0;
+	 background-image: url(http://www.allfreebackgrounds.com/backgrounds/backs/papers/tissue.JPG);
+	 
+}
+
+#M img {
+	height:150px;width: 200px; 
+	border: 2px solid black;
+}
+
+h1{
+	border: 1px solid black; 
+	text-align: center; 
+	background-color: #1f1fca;
+}
+
+p {
+	margin-top: 46px;
+	font-family: serif;
+	font-style: italic;
+	font-weight: bold;
+	border: 1px solid black; 
+
+}
+
+.Social img {
+	height:35px;width: 35px;
+}
