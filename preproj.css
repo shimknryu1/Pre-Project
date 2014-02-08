@@ -4,9 +4,11 @@ body {
 	 
 }
 
-#M img {
-	height:150px;width: 200px; 
+.M img {
+	
 	border: 2px solid black;
+	margin: 10px
+
 }
 
 h1{
@@ -20,10 +22,44 @@ p {
 	font-family: serif;
 	font-style: italic;
 	font-weight: bold;
-	border: 1px solid black; 
+	border: 1px solid black;
+	margin-right: 425px;
 
 }
 
 .Social img {
-	height:35px;width: 35px;
+	height:35px;
+	width: 35px;
+	
 }
+
+.kanji img {
+	height:200px;
+	width:100px;
+	float:right;
+	clear:bottom;
+	
+
+	
+}
+	.A img{
+		height:200px;
+		width: 275px;
+		float: right;
+		clear:bottom;
+
+		
+	}
+	.button{
+		height: 20px;
+		width: 100px;
+		background-color: #BCD2EE;
+		border-color: #6495ED;
+		border-radius: 5px;
+		text-align: center;
+		margin-bottom: 15px;
+}
+	.button a{
+		text-decoration: none;
+		font-family: sans-serif;
+			}
