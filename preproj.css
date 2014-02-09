@@ -15,38 +15,45 @@ h1{
 	border: 1px solid black; 
 	text-align: center; 
 	background-color: #1f1fca;
+	margin-top: 40px;
+
 }
 
 p {
-	margin-top: 46px;
+
+	margin-top: 45px;
 	font-family: serif;
 	font-style: italic;
 	font-weight: bold;
 	border: 1px solid black;
 	margin-right: 425px;
 
+
+	
 }
 
 .Social img {
 	height:35px;
 	width: 35px;
-	
+	l
 }
 
 .kanji img {
-	height:200px;
+	height:182px;
 	width:100px;
 	float:right;
 	clear:bottom;
-	
+	margin-top: 25px
+
 
 	
 }
 	.A img{
-		height:200px;
+		height:182px;
 		width: 275px;
 		float: right;
 		clear:bottom;
+		margin-top: 25px;
 
 		
 	}
@@ -63,3 +70,4 @@ p {
 		text-decoration: none;
 		font-family: sans-serif;
 			}
+
