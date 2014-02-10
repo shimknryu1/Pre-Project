@@ -71,3 +71,6 @@ p {
 		font-family: sans-serif;
 			}
 
+	.button a:hover {
+		color:#cc0000;
+	}		
